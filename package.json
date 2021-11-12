@@ -135,7 +135,7 @@
     "tslib": "~2.2.0",
     "vega-event-selector": "~2.0.6",
     "vega-expression": "~4.0.1",
-    "vega-util": "~1.16.1",
+    "vega-util": "~1.17.0",
     "yargs": "~17.0.1"
   },
   "peerDependencies": {
