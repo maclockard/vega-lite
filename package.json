@@ -134,7 +134,7 @@
     "json-stringify-pretty-compact": "~3.0.0",
     "tslib": "~2.2.0",
     "vega-event-selector": "~2.0.6",
-    "vega-expression": "~4.0.1",
+    "vega-expression": "~5.0.0",
     "vega-util": "~1.16.1",
     "yargs": "~17.0.1"
   },
